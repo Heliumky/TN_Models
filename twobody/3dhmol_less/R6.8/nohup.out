@@ -1,0 +1,577 @@
+           1.819e+00            3.110e-02            1.710e-02             1.41e-03
+           1.819e+00            2.179e-02            1.198e-02             4.53e-03
+           1.819e+00            1.463e-02            8.042e-03             6.21e-03
+           1.819e+00            1.098e-02            6.035e-03             7.98e-03
+           1.819e+00            3.965e-03            2.180e-03             9.16e-03
+           1.819e+00            1.679e-03            9.234e-04             9.96e-03
+           1.819e+00            9.181e-04            5.048e-04             1.32e-02
+           1.819e+00            2.793e-04            1.536e-04             1.67e-02
+           1.819e+00            1.903e-04            1.046e-04             1.58e-02
+           1.819e+00            1.120e-04            6.156e-05             2.06e-02
+           1.819e+00            1.089e-04            5.986e-05             2.48e-02
+           1.819e+00            7.773e-05            4.274e-05             2.47e-02
+           1.819e+00            2.064e-05            1.135e-05             2.76e-02
+           1.819e+00            1.135e-05            6.241e-06             3.38e-02
+           1.819e+00            4.117e-06            2.263e-06             4.26e-02
+           1.819e+00            2.528e-06            1.390e-06             5.33e-02
+           1.819e+00            1.193e-06            6.562e-07             5.25e-02
+           1.819e+00            1.035e-06            5.691e-07             5.74e-02
+           1.819e+00            4.763e-07            2.619e-07             7.22e-02
+           1.819e+00            1.801e-07            9.902e-08             7.64e-02
+           1.819e+00            1.234e-07            6.785e-08             8.21e-02
+           1.819e+00            7.842e-08            4.312e-08             9.28e-02
+           1.819e+00            4.655e-08            2.559e-08             9.54e-02
+           1.819e+00            2.839e-08            1.561e-08             1.60e-01
+           1.819e+00            1.863e-08            1.024e-08             1.88e-01
+           1.819e+00            8.191e-09            4.504e-09             1.93e-01
+           1.819e+00            1.097e-01            6.029e-02             3.33e-03
+           1.819e+00            3.881e-02            2.134e-02             6.33e-03
+           1.819e+00            1.085e-02            5.968e-03             5.93e-03
+           1.819e+00            1.009e-02            5.550e-03             8.25e-03
+           1.819e+00            2.781e-03            1.529e-03             9.02e-03
+           1.819e+00            2.079e-03            1.143e-03             9.93e-03
+           1.819e+00            1.185e-03            6.515e-04             1.24e-02
+           1.819e+00            3.498e-04            1.923e-04             1.45e-02
+           1.819e+00            2.731e-04            1.502e-04             1.77e-02
+           1.819e+00            1.318e-04            7.247e-05             1.85e-02
+           1.819e+00            7.427e-05            4.084e-05             2.05e-02
+           1.819e+00            5.218e-05            2.869e-05             2.30e-02
+           1.819e+00            1.637e-05            8.999e-06             3.07e-02
+           1.819e+00            1.139e-05            6.263e-06             3.02e-02
+           1.819e+00            6.364e-06            3.499e-06             3.62e-02
+           1.819e+00            1.869e-06            1.028e-06             4.78e-02
+           1.819e+00            1.237e-06            6.804e-07             5.24e-02
+           1.819e+00            6.688e-07            3.678e-07             6.24e-02
+           1.819e+00            5.209e-07            2.864e-07             6.10e-02
+           1.819e+00            2.216e-07            1.219e-07             7.25e-02
+           1.819e+00            1.252e-07            6.884e-08             7.56e-02
+           1.819e+00            9.267e-08            5.095e-08             8.88e-02
+           1.819e+00            3.836e-08            2.109e-08             9.28e-02
+           1.819e+00            2.682e-08            1.475e-08             1.86e-01
+           1.819e+00            1.907e-08            1.048e-08             1.74e-01
+           1.819e+00            1.120e-08            6.158e-09             4.54e-01
+xmax = 20
+xshift = -20
+dx = 0.6349206349206349
+len of Hint: 18
+len of H: 18
+Sweep 0, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1972486122, Trunc err: 1.02e+00
+Sweep 1, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1995643841, Trunc err: 1.03e+00
+Sweep 2, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1997749846, Trunc err: 1.03e+00
+Sweep 3, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1978440994, Trunc err: 1.03e+00
+Sweep 4, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1973170992, Trunc err: 1.03e+00
+Sweep 5, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1985509471, Trunc err: 1.03e+00
+Sweep 6, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1985937244, Trunc err: 1.03e+00
+Sweep 7, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1972784971, Trunc err: 1.03e+00
+Sweep 8, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1985594041, Trunc err: 1.03e+00
+Sweep 9, chi=2, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.1972741800, Trunc err: 1.03e+00
+Sweep 10, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.2892530663, Trunc err: 1.12e+00
+Sweep 11, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.4525040583, Trunc err: 1.30e+00
+Sweep 12, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.6314129836, Trunc err: 1.43e+00
+Sweep 13, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.7496905318, Trunc err: 1.51e+00
+Sweep 14, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8380691762, Trunc err: 1.56e+00
+Sweep 15, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8791590303, Trunc err: 1.59e+00
+Sweep 16, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8916767466, Trunc err: 1.60e+00
+Sweep 17, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8945841740, Trunc err: 1.61e+00
+Sweep 18, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8952155437, Trunc err: 1.61e+00
+Sweep 19, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8953748635, Trunc err: 1.61e+00
+Sweep 20, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954204250, Trunc err: 1.61e+00
+Sweep 21, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954297093, Trunc err: 1.61e+00
+Sweep 22, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954334550, Trunc err: 1.61e+00
+Sweep 23, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954346049, Trunc err: 1.61e+00
+Sweep 24, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954349508, Trunc err: 1.61e+00
+Sweep 25, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954350675, Trunc err: 1.61e+00
+Sweep 26, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351083, Trunc err: 1.61e+00
+Sweep 27, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351242, Trunc err: 1.61e+00
+Sweep 28, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351309, Trunc err: 1.61e+00
+Sweep 29, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351341, Trunc err: 1.61e+00
+Sweep 30, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351357, Trunc err: 1.61e+00
+Sweep 31, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351366, Trunc err: 1.61e+00
+Sweep 32, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351371, Trunc err: 1.61e+00
+Sweep 33, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351374, Trunc err: 1.61e+00
+Sweep 34, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351376, Trunc err: 1.61e+00
+Sweep 35, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351377, Trunc err: 1.61e+00
+Sweep 36, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351379, Trunc err: 1.61e+00
+Sweep 37, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351380, Trunc err: 1.61e+00
+Sweep 38, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351381, Trunc err: 1.61e+00
+Sweep 39, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351382, Trunc err: 1.61e+00
+Sweep 40, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351383, Trunc err: 1.61e+00
+Sweep 41, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351385, Trunc err: 1.61e+00
+Sweep 42, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351387, Trunc err: 1.61e+00
+Sweep 43, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351389, Trunc err: 1.61e+00
+Sweep 44, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351392, Trunc err: 1.61e+00
+Sweep 45, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351396, Trunc err: 1.61e+00
+Sweep 46, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351402, Trunc err: 1.61e+00
+Sweep 47, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351413, Trunc err: 1.61e+00
+Sweep 48, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351435, Trunc err: 1.61e+00
+Sweep 49, chi=4, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.8954351487, Trunc err: 1.61e+00
+Sweep 50, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9843012227, Trunc err: 1.66e+00
+Sweep 51, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9877587887, Trunc err: 1.71e+00
+Sweep 52, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9880000953, Trunc err: 1.72e+00
+Sweep 53, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9885654245, Trunc err: 1.72e+00
+Sweep 54, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887764641, Trunc err: 1.72e+00
+Sweep 55, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887821582, Trunc err: 1.72e+00
+Sweep 56, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887833246, Trunc err: 1.72e+00
+Sweep 57, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887836158, Trunc err: 1.72e+00
+Sweep 58, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887836923, Trunc err: 1.72e+00
+Sweep 59, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837129, Trunc err: 1.72e+00
+Sweep 60, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837185, Trunc err: 1.72e+00
+Sweep 61, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837200, Trunc err: 1.72e+00
+Sweep 62, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837205, Trunc err: 1.72e+00
+Sweep 63, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 64, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 65, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 66, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 67, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 68, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 69, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 70, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 71, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 72, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 73, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 74, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 75, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 76, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 77, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 78, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 79, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 80, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 81, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 82, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 83, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 84, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 85, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 86, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 87, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 88, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 89, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 90, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 91, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 92, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 93, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 94, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 95, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 96, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 97, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 98, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 99, chi=8, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -0.9887837206, Trunc err: 1.72e+00
+Sweep 100, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0134741898, Trunc err: 1.77e+00
+Sweep 101, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0155100993, Trunc err: 1.82e+00
+Sweep 102, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156063871, Trunc err: 1.83e+00
+Sweep 103, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156147544, Trunc err: 1.84e+00
+Sweep 104, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156166285, Trunc err: 1.84e+00
+Sweep 105, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156176321, Trunc err: 1.84e+00
+Sweep 106, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156179167, Trunc err: 1.84e+00
+Sweep 107, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180067, Trunc err: 1.84e+00
+Sweep 108, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180358, Trunc err: 1.84e+00
+Sweep 109, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180459, Trunc err: 1.84e+00
+Sweep 110, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180490, Trunc err: 1.84e+00
+Sweep 111, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180501, Trunc err: 1.84e+00
+Sweep 112, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180502, Trunc err: 1.84e+00
+Sweep 113, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180503, Trunc err: 1.84e+00
+Sweep 114, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180501, Trunc err: 1.84e+00
+Sweep 115, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180502, Trunc err: 1.84e+00
+Sweep 116, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180501, Trunc err: 1.84e+00
+Sweep 117, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180502, Trunc err: 1.84e+00
+Sweep 118, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180500, Trunc err: 1.84e+00
+Sweep 119, chi=16, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0156180501, Trunc err: 1.84e+00
+Sweep 120, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0177707621, Trunc err: 1.86e+00
+Sweep 121, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178203196, Trunc err: 1.87e+00
+Sweep 122, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178265583, Trunc err: 1.88e+00
+Sweep 123, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178285976, Trunc err: 1.88e+00
+Sweep 124, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178297829, Trunc err: 1.88e+00
+Sweep 125, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178303028, Trunc err: 1.88e+00
+Sweep 126, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178304648, Trunc err: 1.88e+00
+Sweep 127, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178305086, Trunc err: 1.88e+00
+Sweep 128, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178305199, Trunc err: 1.88e+00
+Sweep 129, chi=32, cutoff=1e-08
+  Direction: left->right
+  Direction: right->left
+  Energy: -1.0178305227, Trunc err: 1.88e+00
