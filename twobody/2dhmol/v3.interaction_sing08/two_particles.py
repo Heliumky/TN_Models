@@ -14,7 +14,7 @@ import time
 import twobody as twut
 
 if __name__ == '__main__':
-    N = 9
+    N = 5
     #cutoff = 0.1
     shift = -2
     rescale = -2*shift/(2**N-1)
@@ -78,8 +78,11 @@ if __name__ == '__main__':
     H, L, R = twut.set_mpo_quantum_number (H, L, R, parity)
 
     # Create MPS
-    psi = twut.make_product_mps (2*N, parity)
+    psi = twut.make_product_mps (2*N-2, parity)
 
+    # Add one tensor for each dimension
+    twut.extend_mps(psi, N-1)
+    twut.extend_mps(psi, 2*N-2)
 
     # Define the bond dimensions for the sweeps
     #maxdims = [2]*10 + [4]*10 + [8]*40 + [16]*40 + [32]*40 + [64]*40

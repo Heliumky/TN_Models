@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0,'/home/chiamin/cytnx_dev/Cytnx_lib/')
 import cytnx
 import numpy as np
 import copy

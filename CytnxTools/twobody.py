@@ -1,5 +1,5 @@
 import copy, sys
-#sys.path.insert(0,'/home/chiamin/cytnx_dev/Cytnx_lib/')
+sys.path.insert(0,'/home/chiamin/cytnx_dev/Cytnx_lib/')
 import cytnx
 import numpy as np
 from ncon import ncon
@@ -107,6 +107,21 @@ def make_product_mps (N, parity):
             A.at([0,2,0]).value = 1./3**0.5
             re.append(A)   
     return re
+
+# Add one tensor after site
+# mps has quantum numbers
+def extend_mps (mps, site):
+    # The parity for the physical bond is [0,0,0,1]
+    ii = phys_index()
+    # Virtual bonds
+    vb = mps[site].bond('r')
+    A = cytnx.UniTensor ([vb.redirect(), ii, vb], labels=['l','i','r'])
+    for i in range(vb.dim()):
+        A.at([i,0,i]).value = 1./3**0.5
+        A.at([i,1,i]).value = 1./3**0.5
+        A.at([i,2,i]).value = 1./3**0.5
+    mps.append(A)
+    return mps
 
 # The parities are 0,0,0,1 for the states after rotation
 def get_swap_U ():
